@@ -17,6 +17,14 @@ I am originally from Illinois and have been attending Iowa since 2016.
 
 ## Files Used
 
+1. Hello.csv
+2. World.csv
+3. HelloWorld.R
+
 ## Additional Documentation
 
+*My extra thoughts*
+
 ## Versioning
+
+> None for the moment
